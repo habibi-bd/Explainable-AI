@@ -9,3 +9,7 @@ git push -u origin main
 
 
 myenv\Scripts\activate
+open-webui serve
+
+
+pip install -r requirements.txt
